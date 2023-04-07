@@ -1,0 +1,3 @@
+tasks:
+  - name: 👷 IPD-HARDHAT 👷
+    command: npx

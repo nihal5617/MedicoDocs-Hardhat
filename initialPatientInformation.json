@@ -1,0 +1,10 @@
+[
+    {
+        "patientAddress": "0x80Abcc86FD3B03Dd36617172dcE3C22AD9B45454",
+        "name": "Patient 1",
+        "dob": "965083482",
+        "phoneNumber": "+919876543210",
+        "bloodGroup": "O positive",
+        "publicKey": "0x80Abcc86FD3B03Dd36617172dcE3C22AD9B45454"
+    }
+]
