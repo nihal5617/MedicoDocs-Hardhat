@@ -3,7 +3,7 @@ const { moveBlocks } = require("../utils/move-blocks")
 const Doctors = require("../initialDoctorData.json")
 
 async function addDoctors() {
-    const patientMedicalRecordSystem = await ethers.getContract("PatientMedicalRecordSystem")
+    const patientMedicalRecordSystem = await ether.getContract("PatientMedicalRecordSystem")
 
     for (let i in Doctors) {
         const doctor = Doctors[i]
